@@ -17,6 +17,6 @@ y = 10
 z <- c(70,85,90)
 # print(x)와 동일한 의미
 x
-print(x)
+print(x,y,z)
 # 여러개 벡터일 경우 cat을 사용
 cat(x,y,z)
